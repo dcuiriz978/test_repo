@@ -1,1 +1,1 @@
-# Marian University, CST 150, Fall 2020
+# Marian University,Fall 2020,MAT 322
